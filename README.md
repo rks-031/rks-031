@@ -22,9 +22,7 @@ Here are some ideas to get you started:
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -38,9 +36,11 @@ Here are some ideas to get you started:
 </h1>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+🌱 I’m currently learning<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Web Dev .
+<br>
+⚡ Fun fact: Not a geek, still a geek.
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajnish-kumar-singh-2241b321b/)
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -52,4 +52,3 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
  <hr>
  ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rks-031&theme=dark&hide_border=true)](https://git.io/streak-stats)
- 
