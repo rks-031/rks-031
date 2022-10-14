@@ -50,6 +50,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  
  <hr>
- ### :fire: My Stats :
+ ## :fire: My Stats :
 ![](http://github-readme-streak-stats.herokuapp.com?user=rks-031&theme=dark&hide_border=true)
 
