@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **rajnish31july@gmail.com**
+- 📫 Mail me @ **rajnish31july@gmail.com**
 
 - ⚡ Fun fact **Not a geek, still a geek!**
 
