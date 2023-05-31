@@ -24,27 +24,18 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![icons8-nodejs-48](https://github.com/rks-031/rks-031/assets/103258259/34d85087-2736-4382-9001-70856cf2b5b2)
+![icons8-js-48](https://github.com/rks-031/rks-031/assets/103258259/10d024bd-fb5f-4ad2-91fc-838d7300f41d)
+![icons8-html-50](https://github.com/rks-031/rks-031/assets/103258259/7beeed81-102d-4212-8f76-b64c5129aa37)
+![icons8-css3-48](https://github.com/rks-031/rks-031/assets/103258259/d2173da3-77c3-44fd-871a-026dc5586999)
+![icons8-mysql-50](https://github.com/rks-031/rks-031/assets/103258259/719d929b-6b47-4f74-befe-092fc61adbb8)
+![icons8-python-48](https://github.com/rks-031/rks-031/assets/103258259/97d9d326-d92a-4bb0-83fc-5dcef12434b4)
+![icons8-twitter-48](https://github.com/rks-031/rks-031/assets/103258259/62cbf1f6-7936-4905-9968-f7f0ef7c1874)
+![icons8-bootstrap-48](https://github.com/rks-031/rks-031/assets/103258259/e9454968-c68c-4fc8-8706-25cbb36f8094)
+![icons8-react-50](https://github.com/rks-031/rks-031/assets/103258259/fd5415b5-9c26-4785-9d93-0cf2f7e689f0)
+![icons8-c-50](https://github.com/rks-031/rks-031/assets/103258259/8bfc4aaa-a561-4ee9-aa76-89357d21518f)
+![icons8-c-50 (1)](https://github.com/rks-031/rks-031/assets/103258259/d162adec-f156-4d70-8230-7c5fa215ab79)
 
-https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-
-https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-
-https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-
-https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
-
-https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-
-https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
 
 
 
