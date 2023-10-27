@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rks-031" alt="rks-031" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
-
+- 🌱 **Front-End Developer**
 - 📫 Mail me at : **rajnish31july@gmail.com**
 
 - ⚡ Fun fact **Not a geek, still a geek!**
