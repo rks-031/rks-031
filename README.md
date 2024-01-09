@@ -12,7 +12,7 @@
 
 **Connect With Me:** 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rks_031/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnish-kumar-singh-2241b321b/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rks_031)  [![Discord](https://img.shields.io/badge/Discord-%792DE4.svg?logo=Discord&logoColor=white)](https://discordapp.com/users/1097538074415726623)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rks_031/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnish-kumar-singh-2241b321b/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rks_031) 
 
 
 **Tech Stack:**
@@ -22,4 +22,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rks-031&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rks-031&" alt="rks-031" /></p>
+![Rajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rks-031)
+
+
