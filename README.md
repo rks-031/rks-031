@@ -22,7 +22,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rks-031&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Rajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rks-031)
+![Rajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rks-031&theme=dark&hide_border=true)
 
 ![Rajnish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rks-031&theme=dark&hide_border=true)
 
