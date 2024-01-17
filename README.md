@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rks-031" alt="rks-031" /></a> </p>
 
 - 🌱 **Mern-Stack Developer**
--  Currently exploring microservices and system design using **Python** & **Kubernetes** 
+- 👩‍💻 Currently exploring microservices and system design using **Python** & **Kubernetes** 
 - 📫 Mail me at: **rajnish31july@gmail.com**
 
 - ⚡ Fun fact **Not a geek, still a geek!**
