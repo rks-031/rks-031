@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajnish</h1>
-<h3 align="center"><i>A Web Development Enthusiast</i></h3>
+<h3 align="center"><i>MERN Stack Developer</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rks-031&label=Profile%20views&color=0e75b6&style=flat" alt="rks-031" /> </p>
 
