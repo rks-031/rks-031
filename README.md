@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rks-031" alt="rks-031" /></a> </p>
 
 - 📫 Mail me at: **rajnish31july@gmail.com** or **b421037@iiit-bh.ac.in**
-- 👩‍💻 Currently exploring Next.js, microservices and system design using **Python** & **Kubernetes** 
+- 👩‍💻 Currently exploring Next.js, and microservices 
 
 - ⚡ Fun fact **Not a geek, still a geek!**
 
