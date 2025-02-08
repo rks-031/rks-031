@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rks-031" alt="rks-031" /></a> </p>
 
 - 📫 Mail me at: **rajnish.singh.3107@gmail.com** or **b421037@iiit-bh.ac.in**
-- 👩‍💻 Currently exploring Machine Learning 
+- 👩‍💻 Currently exploring Cloud 
 
-- ⚡ Fun fact **Not a geek, still a geek!**
+- ⚡ **Not a geek, still a geek!**
 
 **Connect With Me:** 
 
